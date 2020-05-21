@@ -1,0 +1,2 @@
+rootProject.name='UnacademyServiceWorker'
+include ':app'
